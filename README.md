@@ -65,6 +65,3 @@ Comments
 ----------------
 
 For comments, questions or suggestions email: <brilwing@liveforspeed.at>
-
-
-
